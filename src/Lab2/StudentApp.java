@@ -5,11 +5,12 @@ public class StudentApp {
 		
 		Student s1 = new Student("Douv", "123456789");	
 		System.out.println(s1.toString());
+		System.out.println("Edit for github test");
 	}
 }
 
 class Student {
-
+	
 	private static int iD = 1000;
 	private String userId;
 	private String name;
