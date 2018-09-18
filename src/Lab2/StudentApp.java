@@ -5,8 +5,7 @@ public class StudentApp {
 		
 		Student s1 = new Student("Douv", "123456789");	
 		System.out.println(s1.toString());
-		System.out.println("Edit for github test");
-	}
+		System.out.println("Adding code from github");
 }
 
 class Student {
