@@ -27,7 +27,7 @@ public class PaymentApp {
 				positivePayment = false;
 			}
 		} while (!positivePayment);
-		System.out.println("Payment of " + payment + " € done, thank you.");
+		System.out.println("Payment of " + payment + " € done, thank you ;)");
 	}
 
 }
