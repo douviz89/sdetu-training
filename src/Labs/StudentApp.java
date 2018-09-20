@@ -1,4 +1,4 @@
-package Lab2;
+package Labs;
 
 public class StudentApp {
 	public static void main(String[] args) {
